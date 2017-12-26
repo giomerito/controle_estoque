@@ -1,0 +1,10 @@
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\projetos\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\projetos\Controle de Estoque\ControleEstoque\Modelo\bin\Debug\Modelo.dll
+E:\projetos\Controle de Estoque\ControleEstoque\Modelo\bin\Debug\Modelo.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.dll
+E:\projetos\Controle de Estoque\ControleEstoque\Modelo\obj\Debug\Modelo.pdb

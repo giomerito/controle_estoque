@@ -1,0 +1,10 @@
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+E:\projetos\Controle de Estoque\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+E:\projetos\Controle de Estoque\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+E:\projetos\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache

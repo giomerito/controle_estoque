@@ -1,0 +1,14 @@
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Gio\Documents\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\bin\Debug\DAL.dll
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\bin\Debug\DAL.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\bin\Debug\Modelo.dll
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\bin\Debug\Modelo.pdb
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.dll
+E:\projetos\Controle de Estoque\ControleEstoque\DAL\obj\Debug\DAL.pdb
